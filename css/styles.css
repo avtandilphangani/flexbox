@@ -22,7 +22,6 @@
   display: flex;
   flex: 0 0 220px;
   flex-direction: column;
-
 }
 
 .block-item {
@@ -35,9 +34,8 @@
   justify-content: center;
   align-items: center;
   margin-bottom: 30px;
-
 }
 
-.block-item:last-child{
+.block-item:last-child {
   margin-bottom: 0;
 }
