@@ -1,3 +1,3 @@
 # flexbox
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-9iqvko)
+[რედაქტირება StackBlitz-ში ⚡️](https://stackblitz.com/edit/web-platform-yrvurk)
